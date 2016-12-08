@@ -49,7 +49,7 @@ a:hover{
 	color: white;
 }
 
-.link1-5 {
+.link2 {
 	position: absolute;
 	text-align: center;
 	top: 75%;
@@ -57,7 +57,7 @@ a:hover{
 	font-size: 4.2em;
 }
 
-.link2 {
+.link3 {
 	position: absolute;
 	text-align: center;
 	top: 75%;
@@ -65,7 +65,7 @@ a:hover{
 	font-size: 4.2em;
 }
 
-.link2-5 {
+.link4 {
 	position: absolute;
 	text-align: center;
 	top: 75%;
@@ -73,7 +73,7 @@ a:hover{
 	font-size: 4.2em;
 }
 
-.link3 {
+.link5 {
 	position: absolute;
 	text-align: center;
 	top: 75%;
