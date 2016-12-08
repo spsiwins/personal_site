@@ -83,6 +83,7 @@ a:hover{
 
 .demo-1 .main-title,
 .demo-3 .main-title {
+	font-family: helvetica;
 	text-transform: uppercase;
 	font-size: 4.2em;
 	letter-spacing: 0.1em;
