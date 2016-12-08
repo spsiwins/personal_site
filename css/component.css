@@ -49,11 +49,27 @@ a:hover{
 	color: white;
 }
 
+.link1-5 {
+	position: absolute;
+	text-align: center;
+	top: 75%;
+	left: 35.5%;
+	font-size: 4.2em;
+}
+
 .link2 {
 	position: absolute;
 	text-align: center;
 	top: 75%;
 	left: 48%;
+	font-size: 4.2em;
+}
+
+.link2-5 {
+	position: absolute;
+	text-align: center;
+	top: 75%;
+	left: 60.5%;
 	font-size: 4.2em;
 }
 
